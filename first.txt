@@ -1,5 +1,0 @@
-Gitの練習
-git commit
-git remove
-git status
-git diff
